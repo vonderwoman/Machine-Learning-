@@ -10,13 +10,13 @@ Another application of machine learning that has improved alot of peoples live i
 
 In addition, machines has been abled to help human to learn, for example when a programmer writes a algorithm to classify spam emails, the model can be tested to see what they have learnt and for instances, when the machines  has been trained enough on the spam, it can produce lists of words and combinations that are fit to be classified as spam. Also the machine can give out new trends for better understanding of the problem. 
 
-We can say that machine learning is great for: 
+**We can say that machine learning is great for:**
 
 -Finding patterns in our data that the humans could not spot 
 
 -Adapting to new data sets 
 
-Types of Machine Learning 
+**Types of Machine Learning** 
 
 Supervised Learning 
 
@@ -65,7 +65,7 @@ Here are some of the most important unsupervised learning algorithms
 
  
 
-Steps when approching any Machine learning projects 
+**Steps when approching any Machine learning projects** 
 
 Look at the big picture.  
 
