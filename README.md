@@ -81,7 +81,7 @@ Look at the big picture.
 
  Present your solution.  
 
- Launch, monitor, and maintain your system 
+ Launch/deploy, monitor, and maintain your system 
 
  
 
