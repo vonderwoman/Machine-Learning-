@@ -40,6 +40,7 @@ Here are some of the most important supervised learning algorithms :
 Unsupervised Learning 
 
 In unsupervised learning, as you might guess, the training data is unlabeled.The system tries to learn without a teacher. 
+Also we can say unspervised learning is the essence of AI in a way it works without humans interventions.
 
 Here are some of the most important unsupervised learning algorithms  
 
